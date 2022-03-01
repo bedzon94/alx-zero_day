@@ -1,8 +1,4 @@
-bash/alx
-# /bin/bash
-         
-<<<<<<< HEAD
- echo ALX School 
-=======
- echo ALX School is so cool 
->>>>>>> master
+#!/bin/bash
+
+echo "ALX School is so cool!"
+["ALX School"]
