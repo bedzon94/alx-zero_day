@@ -1,0 +1,16 @@
+ [git pull]
+
+[git status ]
+
+[git add up_to_date]
+
+[git status]
+
+[git merge]
+
+[git commit -m “How to be up to date in git” ]
+
+[git push origin main] 
+[git pull]
+git pull
+git pull
